@@ -83,7 +83,7 @@ To test the TODO exercises in `lesson_04.py`, run:
 ```bash
 python3 test_lesson_04.py
 ```
-###**Testing Practical Examples**
+### Testing Practical Examples
 To test the practical examples in lesson_04_modeling.py, run:
 ```bash
 python3 test_lesson_04_modeling.py
